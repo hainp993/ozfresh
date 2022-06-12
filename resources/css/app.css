@@ -1,0 +1,10 @@
+.control-75 .ant-col.ant-form-item-control {
+    width: 75%;
+}
+svg.highcharts-root {
+    width: 100% !important;
+}
+
+.highcharts-container {
+    width: 100% !important;
+}
